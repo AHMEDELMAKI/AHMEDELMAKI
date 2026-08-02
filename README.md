@@ -1,7 +1,7 @@
 # Hi there, I'm Ahmed Elmaki 👋
 
 <p align="center">
-  <b>B.Sc. Graduate in Computers and Data Science | Alexandria University</b>[cite: 1]<br>
+  <b>B.Sc. Graduate in Computers and Data Science | Alexandria University</b><br>
   Software Engineer | Full-Stack & Machine Learning Integrator | Game Developer & Maker
 </p>
 
