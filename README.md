@@ -43,7 +43,7 @@ I'm a passionate software engineer and data science graduate from Alexandria Uni
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
     <img src="https://img.shields.io/badge/Tailscale-000000?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale">
   </p>
-  * **Creative Suites:** DaVinci Resolve, Fusion, Affinity Suite
+* **Creative Suites:** DaVinci Resolve, Fusion, Affinity Suite
 
 ---
 
