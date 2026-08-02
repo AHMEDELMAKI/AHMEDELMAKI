@@ -7,12 +7,12 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 I'm a passionate software engineer and data science graduate from Alexandria University with a deep interest in building cross-platform applications, machine learning pipelines, IoT solutions, and interactive experiences. Whether it's architecting full-stack mobile apps, designing custom PCBs, or developing games in Unity, I love bridging software and hardware.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 * **Programming Languages:** 
   <p align="left" style="margin-top: 8px;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
