@@ -1,31 +1,34 @@
-# Hi there, I'm Ahmed Elmakki 👋
+# Hi there, I'm Ahmed Elmaki 👋
 
 <p align="center">
-  <b>B.Sc. Student in Computers and Data Science | Alexandria University</b><br>
+  <b>B.Sc. Graduate in Computers and Data Science | Alexandria University</b><br>
   Software Engineer | Full-Stack & Machine Learning Integrator | Game Developer & Maker
 </p>
 
 ---
 
 ### 🚀 About Me
-I'm a passionate software engineer and data science student at Alexandria University with a deep interest in building cross-platform applications, machine learning pipelines, IoT solutions, and interactive experiences. Whether it's architecting full-stack mobile apps, designing custom PCBs, or developing games in Unity, I love bridging software and hardware.
+I'm a passionate software engineer and data science graduate from Alexandria University with a deep interest in building cross-platform applications, machine learning pipelines, IoT solutions, and interactive experiences. Whether it's architecting full-stack mobile apps, designing custom PCBs, or developing games in Unity, I love bridging software and hardware.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-* **Programming Languages:** Python, JavaScript, TypeScript, Java, SQL, C#, Bash
+* **Programming Languages:** 
+  <p align="left" style="margin-top: 8px;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+  </p>
 * **Game Development:** Unity Game Engine, 2D/3D Game Mechanics
 * **Hardware, IoT & Prototyping:** Microcontrollers, IoT Applications, Custom PCB Design & Fabrication, Hardware Sensor Interfacing, Soldering
 * **Web & Mobile:** React Native, Node.js, Express.js, HTML/CSS
 * **Data Science & ML:** scikit-learn, PySpark, Custom Feature Engineering
 * **DevOps & Systems:** MongoDB, PostgreSQL, Docker, Ubuntu Server, Nginx, Tailscale Mesh Networks
 * **Creative Suites:** DaVinci Resolve, Fusion, Affinity Suite
-
----
-
-### 📂 Featured Project: Workout Hacker (WinPulse)
-* **Role:** Lead Full-Stack & ML Integrator, UX Designer
-* **Overview:** A senior graduation project featuring a cross-platform mobile app (React Native) backed by Node.js, Express, and MongoDB. Integrates real-time multi-axis hardware sensor telemetry, on-device machine learning for exercise motion analysis, and an offline voice command engine (`react-native-vosk`).
 
 ---
 
@@ -47,8 +50,3 @@ I'm a passionate software engineer and data science student at Alexandria Univer
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AHMEDELMAKI&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
-</p>
