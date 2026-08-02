@@ -1,7 +1,7 @@
 # Hi there, I'm Ahmed Elmaki 👋
 
 <p align="center">
-  <b>B.Sc. Graduate in Computers and Data Science | Alexandria University</b><br>
+  <b>B.Sc. Graduate in Computers and Data Science | Alexandria University</b>[cite: 1]<br>
   Software Engineer | Full-Stack & Machine Learning Integrator | Game Developer & Maker
 </p>
 
@@ -25,7 +25,14 @@ I'm a passionate software engineer and data science graduate from Alexandria Uni
   </p>
 * **Game Development:** Unity Game Engine, 2D/3D Game Mechanics
 * **Hardware, IoT & Prototyping:** Microcontrollers, IoT Applications, Custom PCB Design & Fabrication, Hardware Sensor Interfacing, Soldering
-* **Web & Mobile:** React Native, Node.js, Express.js, HTML/CSS
+* **Web & Mobile:** 
+  <p align="left" style="margin-top: 8px;">
+    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  </p>
 * **Data Science & ML:** scikit-learn, PySpark, Custom Feature Engineering
 * **DevOps & Systems:** MongoDB, PostgreSQL, Docker, Ubuntu Server, Nginx, Tailscale Mesh Networks
 * **Creative Suites:** DaVinci Resolve, Fusion, Affinity Suite
