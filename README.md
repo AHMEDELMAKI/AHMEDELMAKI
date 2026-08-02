@@ -34,8 +34,16 @@ I'm a passionate software engineer and data science graduate from Alexandria Uni
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   </p>
 * **Data Science & ML:** scikit-learn, PySpark, Custom Feature Engineering
-* **DevOps & Systems:** MongoDB, PostgreSQL, Docker, Ubuntu Server, Nginx, Tailscale Mesh Networks
-* **Creative Suites:** DaVinci Resolve, Fusion, Affinity Suite
+* **DevOps & Systems:** 
+  <p align="left" style="margin-top: 8px;">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server">
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+    <img src="https://img.shields.io/badge/Tailscale-000000?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale">
+  </p>
+  * **Creative Suites:** DaVinci Resolve, Fusion, Affinity Suite
 
 ---
 
